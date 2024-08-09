@@ -8,7 +8,6 @@ My Name's Ali M.M, I'm graduate Student in University of Karbala in Collage of C
 | C#         | ASP Core Web API<br>Desktop App in .NET framework |
 | python     | Web-Scraping                                      |
 | PHP        | Laravel FullStack, API                            |
-| JaveScript | React                                             |
 
 ## Language I Learn
 
@@ -20,7 +19,6 @@ My Name's Ali M.M, I'm graduate Student in University of Karbala in Collage of C
 | Java                   |
 
 ## My Interest
-
 | Clean Architecture        |
 | ------------------------- |
 | Domain Driven Design      |
